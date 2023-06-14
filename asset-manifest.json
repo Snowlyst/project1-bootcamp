@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/project1-bootcamp/static/css/main.9fede670.css",
+    "main.js": "/project1-bootcamp/static/js/main.3037bb0e.js",
+    "static/media/bg.jpeg": "/project1-bootcamp/static/media/bg.02db4017b6fedffe5032.jpeg",
+    "static/media/swampbg.png": "/project1-bootcamp/static/media/swampbg.e691738049c0f1a17c38.png",
+    "static/media/death.png": "/project1-bootcamp/static/media/death.1e6c4784530029892488.png",
+    "static/media/gameanalog.png": "/project1-bootcamp/static/media/gameanalog.93264d6790e8a0ebb741.png",
+    "static/media/relieved.png": "/project1-bootcamp/static/media/relieved.430ccf426d084860cddb.png",
+    "static/media/wilting.png": "/project1-bootcamp/static/media/wilting.1d5344715e2f7b6d3569.png",
+    "static/media/bloom.png": "/project1-bootcamp/static/media/bloom.3cb13fb12c5d2b36c8dc.png",
+    "index.html": "/project1-bootcamp/index.html",
+    "main.9fede670.css.map": "/project1-bootcamp/static/css/main.9fede670.css.map",
+    "main.3037bb0e.js.map": "/project1-bootcamp/static/js/main.3037bb0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fede670.css",
+    "static/js/main.3037bb0e.js"
+  ]
+}
