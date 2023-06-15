@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project1-bootcamp/static/css/main.9fede670.css",
-    "main.js": "/project1-bootcamp/static/js/main.3037bb0e.js",
+    "main.js": "/project1-bootcamp/static/js/main.d0eab6f1.js",
     "static/media/bg.jpeg": "/project1-bootcamp/static/media/bg.02db4017b6fedffe5032.jpeg",
     "static/media/swampbg.png": "/project1-bootcamp/static/media/swampbg.e691738049c0f1a17c38.png",
     "static/media/death.png": "/project1-bootcamp/static/media/death.1e6c4784530029892488.png",
@@ -11,10 +11,10 @@
     "static/media/bloom.png": "/project1-bootcamp/static/media/bloom.3cb13fb12c5d2b36c8dc.png",
     "index.html": "/project1-bootcamp/index.html",
     "main.9fede670.css.map": "/project1-bootcamp/static/css/main.9fede670.css.map",
-    "main.3037bb0e.js.map": "/project1-bootcamp/static/js/main.3037bb0e.js.map"
+    "main.d0eab6f1.js.map": "/project1-bootcamp/static/js/main.d0eab6f1.js.map"
   },
   "entrypoints": [
     "static/css/main.9fede670.css",
-    "static/js/main.3037bb0e.js"
+    "static/js/main.d0eab6f1.js"
   ]
 }
